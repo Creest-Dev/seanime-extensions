@@ -2,15 +2,15 @@
   "id": "mangadex",
   "name": "MangaDex",
   "version": "1.1.0",
-  "manifestURI": "https://raw.githubusercontent.com/Gavin-Ricks/seanime-extensions/main/mangadex.json",
+  "manifestURI": "https://raw.githubusercontent.com/Creest-Dev/seanime-extensions/refs/heads/main/manga-provider/mangadex.json",
   "language": "javascript",
   "type": "manga-provider",
   "description": "MangaDex manga provider for Seanime. Supports multi-language, scanlation filtering, and mature content.",
-  "author": "Gavin-Ricks",
+  "author": "Creest",
   "icon": "",
   "website": "https://mangadex.org",
   "readme": "",
   "lang": "multi",
   "payload": "",
-  "payloadURI": "https://raw.githubusercontent.com/Gavin-Ricks/seanime-extensions/main/mangadex-provider.js"
+  "payloadURI": "https://raw.githubusercontent.com/Creest-Dev/seanime-extensions/refs/heads/main/manga-provider/mangadex-provider.js"
 }
