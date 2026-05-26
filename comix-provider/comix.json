@@ -1,0 +1,11 @@
+{
+  "id": "comix",
+  "name": "Comix.to",
+  "version": "1.1.0",
+  "manifestURI": "https://raw.githubusercontent.com/Gavin-Ricks/seanime-extensions/main/comix.json",
+  "language": "javascript",
+  "type": "manga-provider",
+  "description": "Comix.to manga provider with enhanced search, pagination, and AniList support",
+  "author": "Gavin-Ricks",
+  "payloadURI": "https://raw.githubusercontent.com/Gavin-Ricks/seanime-extensions/main/comix-provider.js"
+}
