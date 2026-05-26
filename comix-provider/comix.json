@@ -6,6 +6,6 @@
   "language": "javascript",
   "type": "manga-provider",
   "description": "Comix.to manga provider with enhanced search, pagination, and AniList support",
-  "author": "Gavin-Ricks",
+  "author": "Creest",
   "payloadURI": "https://raw.githubusercontent.com/Creest-Dev/seanime-extensions/refs/heads/main/comix-provider/comix-provider.js"
 }
